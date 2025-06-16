@@ -98,13 +98,47 @@ Scroll, hover, dan klik untuk pengalaman UI/UX yang lebih hidup!
 
 ---
 
+## ✨ Manifesting My Achievements (2025–2027)
+
+<div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/🏆%20Finalist%20International%20Hackathon-Manifesting%20by%202027-orange?style=for-the-badge" alt="Finalist International Hackathon"/>
+  <img src="https://img.shields.io/badge/🌏%20Open%20Source%20Champion-Manifesting%20by%202027-blue?style=for-the-badge" alt="Open Source Champion"/>
+  <img src="https://img.shields.io/badge/🎨%20Best%20UI%2FUX%20Award-Manifesting%20by%202027-purple?style=for-the-badge" alt="Best UI/UX Award"/>
+  <img src="https://img.shields.io/badge/💯%201000%2B%20Commits-Manifesting%20by%202027-green?style=for-the-badge" alt="1000+ Commits"/>
+  <img src="https://img.shields.io/badge/🚀%20Launched%20Impactful%20Startup-Manifesting%20by%202027-brightgreen?style=for-the-badge" alt="Startup"/>
+</p>
+
+<sub>
+<em>
+Semua achievement ini masih dalam proses perjuangan dan manifestasi.<br>
+Setiap hari, setiap commit, setiap project adalah langkah menuju mimpi-mimpi besar ini.<br>
+🔥 Let’s manifest greatness together! 🔥
+</em>
+</sub>
+
+</div>
+
+---
+
 ## 📈 GitHub Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maul-PG&show_icons=true&theme=radical" alt="maul-PG's GitHub Stats" height="150"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maul-PG&theme=radical" alt="maul-PG's GitHub Streak" height="120"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=maul-PG&theme=juicyfresh&no-frame=true&animation=true&row=1&margin-w=8" alt="Trophy" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maul-PG&theme=github-compact&area=true&hide_border=true&custom_title=maul-PG%20Contribution%20Graph%20🔥" width="99%" alt="activity graph"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=maul-PG&show_icons=true&theme=tokyonight" alt="maul-PG's GitHub Stats" height="150"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maul-PG&theme=tokyonight" alt="maul-PG's GitHub Streak" height="120"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maul-PG&layout=compact&theme=tokyonight" alt="Top Languages" height="120"/>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=maul-PG&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views"/>
+
+</div>
 
 ---
 
