@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Rafi'i+Maulana" alt="Rafi'i Maulana" />
   
   <p align="center" style="font-size: 1.1em; opacity: 0.8;">
-    Systems Architect | Full Stack Developer | IoT Enthusiast
+    | Full Stack Developer | 
   </p>
 
   <!-- Sosial Media dengan Ikon -->
@@ -16,9 +16,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://github.com/maul-PG" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </div>
 
 ---
@@ -38,21 +35,16 @@ With a strong focus on clean software architecture, system security, and efficie
 
 ---
 
-### ⚡ Technical Expertise
+### Technical Expertise
 
 <div align="center">
   <!-- Tech Stack Grid -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,dotnet,tailwind,cpp,figma,git,github,raspberrypi,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,git&theme=dark" />
   
   <br/><br/>
 
   <!-- Specialization Badges -->
   <img src="https://img.shields.io/badge/Full%20Stack-000?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software%20Architecture-000?style=for-the-badge&logo=diagrams.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT%20Integration-000?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cyber%20Security-000?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-000?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Termux-000?style=for-the-badge&logo=termux&logoColor=white" />
 </div>
 
 <br/>
